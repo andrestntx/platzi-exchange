@@ -24,6 +24,14 @@
             </router-link>
           </div>
         </div>
+        <div class="flex">
+          <a
+            href="https://github.com/andrestntx/platzi-exchange"
+            target="_blank"
+          >
+            <span class="right-0 text-white">by @andrestntx</span>
+          </a>
+        </div>
       </nav>
     </nav>
   </header>
