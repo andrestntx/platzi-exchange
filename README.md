@@ -1,5 +1,9 @@
 # platzi-exchange
 
+## Preview
+![alt text](https://github.com/andrestntx/platzi-exchange/blob/master/preview.png?raw=true)
+
+
 ## Project setup
 ```
 npm install
