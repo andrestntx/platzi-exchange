@@ -1,7 +1,7 @@
 # platzi-exchange
 
-## Preview
-[andrestnx-platzi-exchange.netlify.app](https://andrestnx-platzi-exchange.netlify.app/)
+[Demo: andrestnx-platzi-exchange.netlify.app](https://andrestnx-platzi-exchange.netlify.app/)
+![alt text](https://github.com/andrestntx/platzi-exchange/blob/master/preview.png?raw=true)
 
 ## Project setup
 ```
