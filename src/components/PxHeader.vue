@@ -13,3 +13,12 @@
     </nav>
   </header>
 </template>
+
+<script>
+import PxIcon from '@/components/PxIcon';
+
+export default {
+  name: "PxHeader",
+  components: { PxIcon }
+};
+</script>
